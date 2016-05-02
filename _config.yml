@@ -1,0 +1,28 @@
+name: ButchOwensPhotography
+favicon: null
+layout_spectrum: 0.658835883019492
+typography_spectrum: 0.6902582491748035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.32712439144961536
+  lightness: 0.12600175803527236
+  saturation: 0.7225493129808456
+  rhythmicContrast: 0.3259173014666885
+purpose: []
